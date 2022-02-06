@@ -1,0 +1,46 @@
+,first_name,middle_name,last_name,dob,birth_city,dod,death_city,dob_year,dod_year,birth_state,death_state,full_name
+0,George,,Washington,"Feb 22, 1732",Westmoreland Co.,"Dec 14, 1799",Mount Vernon,1732,1799, Virginia, Virginia,George Washington
+1,John,,Adams,"Oct 30, 1735",Quincy,"July 4, 1826",Quincy,1735,1826, Massachusetts, Massachusetts,John Adams
+2,Thomas,,Jefferson,"Apr 13, 1743",Albemarle Co.,"July 4, 1826",Albemarle Co.,1743,1826, Virginia, Virginia,Thomas Jefferson
+3,James,,Madison,"Mar 16, 1751",Port Conway,"June 28, 1836",Orange Co.,1751,1836, Virginia, Virginia,James Madison
+4,James,,Monroe,"Apr 28, 1758",Westmoreland Co.,"July 4, 1831",New York,1758,1831, Virginia, New York,James Monroe
+5,John,Quincy,Adams,"July 11, 1767",Quincy,"Feb 23, 1848",Washington,1767,1848, Massachusetts, D.C.,John Quincy Adams
+6,Andrew,,Jackson,"Mar 15, 1767",Waxhaws,"June 8, 1845",Nashville,1767,1845, South Carolina, Tennesseessee,Andrew Jackson
+7,Martin,Van,Buren,"Dec 5, 1782",Kinderhook,"July 24, 1862",Kinderhook,1782,1862, New York, New York,Martin Van Buren
+8,William,Henry,Harrison,"Feb 9, 1773",Charles City Co.,"Apr 4, 1841",Washington,1773,1841, Virginia, D.C.,William Henry Harrison
+9,John,,Tyler,"Mar 29, 1790",Charles City Co.,"Jan 18, 1862",Richmond,1790,1862, Virginia, Virginia,John Tyler
+10,James,K.,Polk,"Nov 2, 1795",Mecklenburg Co.,"June 15, 1849",Nashville,1795,1849, North Carolina, Tennesseessee,James K. Polk
+11,Zachary,,Taylor,"Nov 24, 1784",Orange County,"July 9, 1850",Washington,1784,1850, Virginia, D.C,Zachary Taylor
+12,Millard,,Fillmore,"Jan 7, 1800",Cayuga Co.,"Mar 8, 1874",Buffalo,1800,1874, New York, New York,Millard Fillmore
+13,Franklin,,Pierce,"Nov 23, 1804",Hillsborough,"Oct 8, 1869",Concord,1804,1869, New Hampshire, New Hampshire,Franklin Pierce
+14,James,,Buchanan,"Apr 23, 1791",Cove Gap,"June 1, 1868",Lancaster,1791,1868, Pennsylvania, Pennsylvania,James Buchanan
+15,Abraham,,Lincoln,"Feb 12, 1809",LaRue Co.,"Apr 15, 1865",Washington,1809,1865, Kentucky, D.C.,Abraham Lincoln
+16,Andrew,,Johnson,"Dec 29, 1808",Raleigh,"July 31, 1875",Elizabethton,1808,1875, North Carolina, Tennessee,Andrew Johnson
+17,Ulysses,S.,Grant,"Apr 27, 1822",Point Pleasant,"July 23, 1885",Wilton,1822,1885, Ohio, New York,Ulysses S. Grant
+18,Rutherford,B.,Hayes,"Oct 4, 1822",Delaware,"Jan 17, 1893",Fremont,1822,1893, Ohio, Ohio,Rutherford B. Hayes
+19,James,A.,Garfield,"Nov 19, 1831",Cuyahoga Co.,"Sep 19, 1881",Elberon,1831,1881, Ohio, New Jersey,James A. Garfield
+20,Chester,,Arthur,"Oct 5, 1829",Fairfield,"Nov 18, 1886",New York,1829,1886, Vermont, New York,Chester Arthur
+21,Grover,,Cleveland,"Mar 18, 1837",Caldwell,"June 24, 1908",Princeton,1837,1908, New Jersey, New Jersey,Grover Cleveland
+22,Benjamin,,Harrison,"Aug 20, 1833",North Bend,"Mar 13, 1901",Indianapolis,1833,1901, Ohio, Indiana,Benjamin Harrison
+23,William,,McKinley,"Jan 29, 1843",Niles,"Sep 14, 1901",Buffalo,1843,1901, Ohio, New York,William McKinley
+24,Theodore,,Roosevelt,"Oct 27, 1858",New York,"Jan 6, 1919",Oyster Bay,1858,1919, New York, New York,Theodore Roosevelt
+25,William,Howard,Taft,"Sep 15, 1857",Cincinnati,"Mar 8, 1930",Washington,1857,1930, Ohio, D.C.,William Howard Taft
+26,Woodrow,,Wilson,"Dec 28, 1856",Staunton,"Feb 3, 1924",Washington,1856,1924, Virginia, D.C.,Woodrow Wilson
+27,Warren,G.,Harding,"Nov 2, 1865",Morrow County,"Aug 2, 1923",San Francisco,1865,1923, Ohio, California,Warren G. Harding
+28,Calvin,,Coolidge,"July 4, 1872",Plymouth,"Jan 5, 1933",Northampton,1872,1933, Vermont, Massachusetts,Calvin Coolidge
+29,Herbert,,Hoover,"Aug 10, 1874",West Branch,"Oct 20, 1964",New York,1874,1964, Iowa, New York,Herbert Hoover
+30,Franklin,,Roosevelt,"Jan 30, 1882",Hyde Park,"Apr 12, 1945",Warm Springs,1882,1945, New York, Georgia,Franklin Roosevelt
+31,Harry,S.,Truman,"May 8, 1884",Lamar,"Dec 26, 1972",Kansas City,1884,1972, Missouri, Missouri,Harry S. Truman
+32,Dwight,,Eisenhower,"Oct 14, 1890",Denison,"Mar 28, 1969",Washington,1890,1969, Texas, D.C.,Dwight Eisenhower
+33,John,F.,Kennedy,"May 29, 1917",Brookline,"Nov 22, 1963",Dallas,1917,1963, Massachusetts, Texas,John F. Kennedy
+34,Lyndon,B.,Johnson,"Aug 27, 1908",Gillespie Co.,"Jan 22, 1973",Gillespie Co.,1908,1973, Texas, Texas,Lyndon B. Johnson
+35,Richard,,Nixon,"Jan 9, 1913",Yorba Linda,"Apr 22, 1994",New York,1913,1994, California, New York,Richard Nixon
+36,Gerald,,Ford,"July 14, 1913",Omaha,"Dec 26, 2006",Rancho Mirage,1913,2006, Nebraska, California,Gerald Ford
+37,Jimmy,,Carter,"Oct 1, 1924",Plains,,,1924,, Georgia,,Jimmy Carter
+38,Ronald,,Reagan,"Feb 6, 1911",Tampico,"June 5, 2004",Los Angeles,1911,2004, Illinois, California,Ronald Reagan
+39,George,,Bush,"June 12, 1924",Milton,"Nov 30, 2018",Houston,1924,2018, Massachusetts, Texas,George Bush
+40,Bill,,Clinton,"Aug 19, 1946",Hope,,,1946,, Arkansas,,Bill Clinton
+41,George,W.,Bush,"July 6, 1946",New Haven,,,1946,, Connecticut,,George W. Bush
+42,Barack,,Obama,"Aug 4, 1961",Honolulu,,,1961,, Hawaii,,Barack Obama
+43,Donald,,Trump,"June 14, 1946",New York,,,1946,, New York,,Donald Trump
+44,Joe,,Biden,"Nov 20, 1942",Scranton,,,1942,, Pennsylvania,,Joe Biden
